@@ -20,7 +20,7 @@
                 It sends the student details to the server. The server calculates the total, 
                 average, and grade of each student and sends the results back to the client. 
                 The client displays the processed student details.
-    >Experiment 4
+    ->Experiment 4
         ->Question
             Client–Server Communication using UDP:
                 The client inputs two numbers and an arithmetic operator ($+, -, \times, /$) 
